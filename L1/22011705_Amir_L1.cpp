@@ -1,8 +1,8 @@
 /*
 id: 22011705
-name: amir bin shahrani
-email: amir_22011705@utp.edu.my
+name: amir
 group: g2
+lab: L1
 */
 
 #include <iostream>
