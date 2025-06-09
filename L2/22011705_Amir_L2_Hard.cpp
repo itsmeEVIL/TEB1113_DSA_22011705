@@ -1,7 +1,7 @@
 /*
 id: 22011705
 name: amir
-group: g2
+group: g1
 lab: L2 (Hard) - A Boolean Matrix Question
 problem: https://geeksforgeeks.org/a-boolean-matrix-question/
 */

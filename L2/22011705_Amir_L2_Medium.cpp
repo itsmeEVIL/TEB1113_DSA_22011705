@@ -1,7 +1,7 @@
 /*
 id: 22011705
 name: amir
-group: g2
+group: g1
 lab: L2 (Medium) - Rotate a Matrix by 180 degree
 problem: https://geeksforgeeks.org/rotate-matrix-180-degree/
 */
