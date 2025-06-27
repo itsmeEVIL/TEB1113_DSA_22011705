@@ -2,7 +2,7 @@
 id: 22011705
 name: amir
 group: g1
-lab: L3 (circular)
+lab: L4 (singly circular)
 */
 
 #include <iostream>
@@ -131,19 +131,19 @@ int main()
     // Display the list
     linkedlst.display_list();
 
-    // // Example of deletion
-    // linkedlst.delete_by_value("Ahmed");
-    // cout << "After deleting Ahmed: ";
-    // linkedlst.display_list();
+    // Example of deletion
+    linkedlst.delete_by_value("Ahmed");
+    cout << "After deleting Ahmed: ";
+    linkedlst.display_list();
 
-    // // Clean up memory
-    // Node *current = linkedlst.get_head(); // Use getter instead of direct access
-    // while (current)
-    // {
-    //     Node *temp = current;
-    //     current = current->next_ptr;
-    //     delete temp;
-    // }
+    // Clean up memory
+    Node *current = linkedlst.get_head(); // Use getter instead of direct access
+    while (current)
+    {
+        Node *temp = current;
+        current = current->next_ptr;
+        delete temp;
+    }
 
     return 0;
 }
