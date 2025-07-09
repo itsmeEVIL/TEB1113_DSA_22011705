@@ -11,4 +11,5 @@ Lab tasks for ADS May 2025.
 | 11/6/2025 | 3   | Linked List: <br> - [Singly](./L3/Singly.cpp) <br> - [Doubly](./L3/Doubly.cpp)                                            |
 | 18/6/2025 | 4   | Circular Linked List: <br> - [Circular Singly](./L4/CircularSingly.cpp) <br> - [Circular Doubly](./L4/CircularDoubly.cpp) |
 | 25/6/2025 | 5   | - [Stack](./L5/Stack.cpp)                                                                                                 |
-| 02/7/2025 | 6   | - [Queue](./L6/Queue.cpp) <br> - [Circular Queue](./L6/CircularQueue.cpp)                                                 |
+| 02/7/2025 | 6   | Queue: <br> - [Normal Queue](./L6/Queue.cpp) <br> - Circular Queue [WIP] <br> - Array Queue [WIP]                         |
+| 09/7/2025 | 7   | - Tree [WIP]                                                                                                              |
