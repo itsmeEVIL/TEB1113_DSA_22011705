@@ -53,7 +53,6 @@ public:
         {
             rear->next_ptr = node; // Link current rear to new node
             rear = node;           // Update rear to new node
-            rear->next_ptr = front;
         }
     }
 

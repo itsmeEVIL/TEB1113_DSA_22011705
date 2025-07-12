@@ -108,12 +108,6 @@ public:
             delete temp;
         }
     }
-
-    // Getter for head to allow memory cleanup in main
-    Node *get_head() const
-    {
-        return head;
-    }
 };
 
 int main()
@@ -135,15 +129,6 @@ int main()
     linkedlst.delete_by_value("Ahmed");
     cout << "After deleting Ahmed: ";
     linkedlst.display_list();
-
-    // Clean up memory
-    Node *current = linkedlst.get_head(); // Use getter instead of direct access
-    while (current)
-    {
-        Node *temp = current;
-        current = current->next_ptr;
-        delete temp;
-    }
 
     return 0;
 }

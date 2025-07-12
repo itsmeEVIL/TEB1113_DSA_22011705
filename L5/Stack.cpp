@@ -85,18 +85,6 @@ public:
         }
         cout << endl;
     }
-
-    // Getter for top to allow memory cleanup in main
-    Node *get_top() const
-    {
-        return top;
-    }
-
-    // Check if stack is empty
-    bool is_empty() const
-    {
-        return top == nullptr;
-    }
 };
 
 int main()
@@ -124,15 +112,6 @@ int main()
     cout << "After popping top element: ";
     stack.pop();
     stack.display_stack();
-
-    // Clean up memory
-    Node *current = stack.get_top();
-    while (current)
-    {
-        Node *temp = current;
-        current = current->next_ptr;
-        delete temp;
-    }
 
     return 0;
 }
