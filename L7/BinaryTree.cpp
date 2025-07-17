@@ -1,3 +1,10 @@
+/*
+id: 22011705
+name: amir
+group: g1
+lab: L7 (binary tree)
+*/
+
 #include <iostream>
 using namespace std;
 
