@@ -1,6 +1,6 @@
 # [TEB1113] Algorithm & Data Structure
 
-Lab tasks for ADS May 2025.
+Tasks for ADS May 2025.
 
 ## Lab Tasks
 
@@ -13,4 +13,5 @@ Lab tasks for ADS May 2025.
 | 25/6/2025 | 5   | - [Stack](./L5/Stack.cpp)                                                                                                              |
 | 02/7/2025 | 6   | Queue: <br> - [Normal Queue](./L6/Queue.cpp) <br> - [Circular Queue](./L6/CircularQueue.cpp) <br> - [Array Queue](./L6/ArrayQueue.cpp) |
 | 09/7/2025 | 7   | - [Binary Tree](./L7/Tree.cpp)                                                                                                         |
-| 16/7/2025 | 8   | - [Binary Search Tree](./L8/BinarySearchTree.cpp)                                                                                      |
+| 16/7/2025 | 8   | - [Binary Search Tree](./L8/BinarySearchTree.cpp) <br> - [Min/Max Heap](./L8/Heap.cpp)                                                 |
+| 23/7/2025 | 9   | - [Breadth-First Search](./L9/BreadthFirstSearch.cpp) <br> - [Depth-First Search](./L9/DepthFirstSearch.cpp)                           |
