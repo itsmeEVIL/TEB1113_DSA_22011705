@@ -15,3 +15,9 @@ Tasks for ADS May 2025.
 | 09/7/2025 | 7   | - [Binary Tree](./L7/Tree.cpp)                                                                                                         |
 | 16/7/2025 | 8   | - [Binary Search Tree](./L8/BinarySearchTree.cpp) <br> - [Min/Max Heap](./L8/Heap.cpp)                                                 |
 | 23/7/2025 | 9   | - [Breadth-First Search](./L9/BreadthFirstSearch.cpp) <br> - [Depth-First Search](./L9/DepthFirstSearch.cpp)                           |
+
+## Project
+
+[AlgoSeek](./Project)
+
+Visually compare Linear and Binary search algorithms. Explore logic, efficiency, and step-by-step execution in real time.
